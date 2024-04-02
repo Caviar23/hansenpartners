@@ -8,7 +8,7 @@ body {
 }
 header {
   background: linear-gradient(#00000071, #0701012b),
-    url("/images/header-img.jpg");
+    url("../images/header-img.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -195,7 +195,7 @@ h3 {
 }
 .marketing-strategy {
   background: linear-gradient(#000000b3, #0701018e),
-    url("/images/market-img.jpg");
+    url("../images/market-img.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -401,7 +401,7 @@ h3 {
 
 .selling-process {
   background: linear-gradient(#000000b3, #0701018e),
-    url("/images/sellingprocess.jpg");
+    url("../images/sellingprocess.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -434,7 +434,7 @@ h3 {
 
 .buying-process {
   background: linear-gradient(#000000b3, #0701018e),
-    url("/images/buyingprocess.jpg");
+    url("../images/buyingprocess.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -468,7 +468,7 @@ h3 {
 
 .work-with-us {
   background: linear-gradient(#000000b3, #0701018e),
-    url("/images/footerimage.jpg");
+    url("../images/footerimage.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
